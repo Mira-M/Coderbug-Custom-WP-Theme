@@ -589,15 +589,6 @@
                             'options'   => $btn_color,
                             'required'  => array('featured_btn','equals','1'),
                         ),
-
-                        array( 
-                            'title'     => __( 'Right Featured Content', 'coderbug' ),
-                            'subtitle'  => __( 'Add your image or text/html for right Featured content region.', 'coderbug' ),
-                            'id'        => 'right_featured',
-                            'default'   => '',
-                            'type'      => 'editor',
-                        ),
-
                     )
                 );
                 

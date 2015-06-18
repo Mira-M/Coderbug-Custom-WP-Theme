@@ -12,7 +12,8 @@
 		<figure>
 			<?php the_post_thumbnail( 'full', array( 'class' => 'img-responsive') ); ?>
 		<figcaption>
-			<h5><?php echo substr(the_title($before = '', $after = '...', FALSE), 0, 25); ?></h5><a href="<?php the_permalink(); ?>" class="btn btn-success">Read More</a>
+			<h5><?php echo substr(the_title($before = '', $after = '...', FALSE), 0, 25); ?></h5>
+			<a href="<?php the_permalink(); ?>" class="btn btn-success">Read</a>
 		</figcaption><!-- /figcaption -->
 		</figure><!-- /figure -->
 	</div><!-- /grid-mask -->

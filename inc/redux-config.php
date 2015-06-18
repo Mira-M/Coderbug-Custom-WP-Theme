@@ -307,13 +307,6 @@
             'icon'          => 'el-icon-cog',
             'submenu'       => true,
             'fields'        => array(
-                array(
-                    'id'        => 'test_text',
-                    'type'      => 'text', 
-                    'title'     => __( 'Testing Text', 'coderbug' ),
-                    'default'   => 'CoderBug',
-                    'subtitle'  => __( 'Subtitle Here', 'coderbug' ),
-                    ),
                                 array( 
                             'title'     => __( 'Favicon', 'coderbug' ),
                             'subtitle'  => __( 'Use this field to upload your custom favicon.', 'coderbug' ),

@@ -36,6 +36,8 @@ if (count($bg_img) > '0') {
 	</header>	    
 </div><!-- /headerwrap -->
 
+TESTING!!!!
+
 <div class="container">
 	<div class="row">
 

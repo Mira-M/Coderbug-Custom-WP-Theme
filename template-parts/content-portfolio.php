@@ -8,7 +8,7 @@
 
 <!-- PORTFOLIO IMAGE 1 -->
 <div class="col-sm-6 col-md-4 item">
-	<div class="grid">
+	<div class="grid grid-portfolio">
 		<figure>
 			<?php the_post_thumbnail( 'full', array( 'class' => 'img-responsive') ); ?>
 		<figcaption>

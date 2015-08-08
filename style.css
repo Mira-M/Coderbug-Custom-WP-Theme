@@ -481,9 +481,10 @@ a:after {
 	position: absolute;
 	width: 100%;
 	left: 0;
-	padding: 20px;
+	padding: 8px;
 	color: #fff;
 	background: #81b33a;
+	height: 75px;
 }
 
 .grid-portfolio figcaption h5 {
@@ -495,17 +496,22 @@ a:after {
 	font-weight: 700;
 	text-align: left;
     float:left;
+    width: 1em;
 }
 
 .grid-blog figcaption h5 {
 	margin: 0;
-	padding-top: 10px;
-	padding-left: 20px;
-	padding-bottom: 0px;
+	padding-bottom: 13px;
 	color: #fff;
 	font-weight: 700;
-	text-align: left;
-    float:left;
+	text-align: center;
+    float:none;
+    width: 1em;
+}
+
+#blog_title_overflow {
+	font-size: small;
+	padding: 0;
 }
 
 .grid-portfolio figcaption a {
@@ -1523,13 +1529,6 @@ div.resume-box {
   text-transform: uppercase;
 }
 
-.wordwrap { 
-   white-space: pre-wrap;      /* CSS3 */   
-   white-space: -moz-pre-wrap; /* Firefox */    
-   white-space: -pre-wrap;     /* Opera <7 */   
-   white-space: -o-pre-wrap;   /* Opera 7 */    
-   word-wrap: break-word;      /* IE */
-}
 
 #blogcap {
 	text-align: left;

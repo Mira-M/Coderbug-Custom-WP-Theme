@@ -510,7 +510,7 @@ a:after {
 
 #blog_title_overflow {
 	font-size: small;
-	padding: 0;
+	padding-top: 0px;
 }
 
 .grid-portfolio figcaption a {

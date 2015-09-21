@@ -20,9 +20,9 @@ if (count($bg_img) > '0') {
 
 <div class="pagewrap" style="<?php echo $bg_url; ?>">
 	<header>
-		<?php if (rwmb_meta('coderbug_banner_text') != '') {
+		<?php if (rwmb_meta('portfolio-single-title') != '') {
 			echo '<h1>';
-			echo rwmb_meta('coderbug_banner_text');
+			echo rwmb_meta('portfolio-single-title');
 			echo '</h1>';
 		} else { 
 			the_title( '<h1 class="entry-title">', '</h1>' );

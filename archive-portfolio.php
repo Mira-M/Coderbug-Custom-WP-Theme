@@ -21,7 +21,8 @@ if (count($bg_img) > '0') {
 			echo rwmb_meta('portfolio-single-title');
 			echo '</h1>';
 		} else { 
-			the_title( '<h1 class="entry-title">', '</h1>' );
+			//the_title( '<h1 class="entry-title">', '</h1>' );
+			echo '<h1 class="entry-title"> PORTFOLIO </h1>';
 		}?>
 	</header>	    
 </div><!-- /headerwrap -->

@@ -58,7 +58,7 @@ if (count($bg_img) > '0') {
 
 			<?php 
 			// the query
-			$the_query = new WP_Query( array('post_type' => 'post') ); ?>
+			$the_query = new WP_Query( array('post_type' => 'post','posts_per_page' => '-1') ); ?>
 
 			<?php if ( $the_query->have_posts() ) : ?>
 

@@ -652,6 +652,13 @@
                             'options'   => $btn_color,
                             'required'  => array('filter_switch','equals','1')
                         ),
+                         array(  
+                            'title'     => __('Portfolio Title', 'coderbug'),
+                            'subtitle'  => __('This is the title of the Portfolio Page', 'coderbug'),
+                            'id'        => 'portfolio-single-title',
+                            'default'   => 'PORTFOLIO',
+                            'type'      => 'text',
+                        ),
                     )
                 );
 

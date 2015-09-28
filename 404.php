@@ -21,11 +21,12 @@ get_header(); ?>
 
 			<section class="error-404 not-found">
 				<header class="page-header">
-					<h1 class="page-title"><?php _e( 'Oops! That page can&rsquo;t be found.', 'coderbug' ); ?></h1>
+					<div id="fliptable"></div>
+					<h1 class="page-title"><?php _e( 'Sorry, something ate this page...', 'coderbug' ); ?></h1>
 				</header><!-- .page-header -->
 
 				<div class="page-content">
-					<p><?php _e( 'It looks like nothing was found at this location. Maybe try one of the links below or a search?', 'coderbug' ); ?></p>
+					<p><?php _e( 'But instead of flipping tables, perhaps you can search for what you are looking for?', 'coderbug' ); ?></p>
 
 					<?php get_search_form(); ?>
 
@@ -50,7 +51,7 @@ get_header(); ?>
 
 					<?php
 						/* translators: %1$s: smiley */
-						$archive_content = '<p>' . sprintf( __( 'Try looking in the monthly archives. %1$s', 'bootstrapwp' ), convert_smilies( ':)' ) ) . '</p>';
+						$archive_content = '<p>' . sprintf( __( 'Try looking in the monthly archives. %1$s', 'coderbug' ), convert_smilies( ':)' ) ) . '</p>';
 						the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$archive_content" );
 					?>
 

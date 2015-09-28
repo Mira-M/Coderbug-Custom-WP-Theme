@@ -597,7 +597,7 @@ a:after {
 }
 
 .pagewrap {
-    background: url('images/header_bg.jpg') no-repeat center top;
+    background: url('images/gamer-wallpaper.jpg') no-repeat center top;
     margin-top: -50px;
     padding-top:120px;
     text-align:center;
@@ -1169,6 +1169,15 @@ Media Queries
     .pagewrap h1 {
         font-size: 70px;
     }
+}
+
+/*******************************************
+404 Page
+*******************************************/
+#fliptable{
+	width: 718px;
+	height: 105px; 
+	background: url('images/tableflip.png') no-repeat;
 }
 
 

@@ -155,7 +155,7 @@
               <div class="item-skills" data-percent="0.65">JAVA</div>
               <div class="item-skills" data-percent="0.60">C++</div>
               <div class="item-skills" data-percent="0.50">LUA</div>
-              <div class="item-skills" data-percent="0.40">PHYTHON</div>
+              <div class="item-skills" data-percent="0.40">PYTHON</div>
               <div class="item-skills" data-percent="0.20">GLSL</div>
               <div class="skills-legend clearfix">
                 <div class="legend-left legend">Beginner</div>

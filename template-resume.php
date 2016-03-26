@@ -23,7 +23,7 @@
             </div>
             <div id="text-header">
               <h1>Shamireya T. Mollar</h1>
-              <h4> <a href="https://drive.google.com/file/d/0B1-HiPAkImLMb2wya3JlMUZnakk/view?usp=sharing"> <i class="fa fa-file-pdf-o fa-1x"></i> Printable Version </a></h4>
+              <h4> <a href="https://drive.google.com/file/d/0B1-HiPAkImLMRHZPY1hTYVBjV00/view?usp=sharing"> <i class="fa fa-file-pdf-o fa-1x"></i> Printable Version </a></h4>
             </div>
           </div>
         </div>
@@ -69,10 +69,31 @@
           <!-- EXPERIENCES -->
           <div class="box">
             <h2>Experiences</h2>
+
+            <div class="job clearfix">
+              <div class="col-xs-3">
+                <div class="where">Exceptional Software Straties</div>
+                <div class="year">2015 - Present</div>
+              </div>
+              <div class="col-xs-9">
+                <div class="profession">Software Engineer I</div>
+                <div class="description"><ul><li>Assists Project Managers and teammates in preparing and facilitating customer demonstrations and status meetings. </li>
+                	<li>Collaborates with developers, SCRUM master, Project Managers, and clients to determine the best approach to implement software requirements.   
+ </li>
+                  <li>Developed REST-ful style Services layer that interacts with Keycloak, an external authentication server that manages the users for the application.  </li>
+                  <li>Implemented the Administration Panel using Angular JS, for managing Clinician and Administrator roles, and updating legal agreements. 
+</li>
+				<li>Collaborated with team member to implement a document repository using Amazon S3 services with an interface in Angular JS, for users to upload and manage files and other resources.</li>
+                <li>Works side-by-side with clients during testing, providing live technical support, through identifying bugs and offering training where needed. </li>
+                </ul></div>
+              </div>
+            </div>
+
+
             <div class="job clearfix">
               <div class="col-xs-3">
                 <div class="where">Planet Pluto Games</div>
-                <div class="year">2013 - Present</div>
+                <div class="year">2013 - 2015</div>
               </div>
               <div class="col-xs-9">
                 <div class="profession">Game Programming Intern</div>
@@ -83,10 +104,11 @@
                 </ul></div>
               </div>
             </div>
+            
             <div class="job clearfix">
               <div class="col-xs-3">
                 <div class="where">Moore's Systems Maintenance LLC</div>
-                <div class="year">2013 - Present</div>
+                <div class="year">2013 - 2015</div>
               </div>
               <div class="col-xs-9">
                 <div class="profession">Administrative Assistant</div>
@@ -97,6 +119,7 @@
                 </ul></div>
               </div>
             </div>
+            
             <div class="job clearfix">
             	<div class="col-xs-3">
             		<div class="where">Best Buy Co. Inc.</div>
@@ -104,25 +127,27 @@
             	</div>
             	<div class="col-xs-9">
                 <div class="profession">General Manager</div>
+                <div class="year">2010 - 2013</div>
                 <div class="description"><ul><li>Trained and led store team to work together cohesively to accomplish store-wide goals. </li>
                   <li>Developed processes that delivered increased customer satisfaction results.</li>
                     <li>Exceeded operational standards through controlling store revenue and costs.</li>
-                    <li>Played a pivotal role in the success of a region-wide initiative to retain female employees and customers, through co-founding a leadership development program for female leaders.</li>
+                    <li>Played a pivotal role in the success of a region-wide initiative to retain female employees and customers, through co-founding a 							leadership development program for female leaders.</li>
                 </ul></div>
-            		<div class="profession">Assistant Manager</div>
-            		<div class="description"><ul><li>Achieved top financial rankings through analyzing performance and developing plans to increase
-                  profitability and customer satisfaction.</li>
-                	<li>Increased customer satisfaction results by 32% through developing and training employees to execute behaviors that led to
-                    great customer interactions.</li>
-                    <li>Improved customer retention by 20% by inspiring teams to think critically and creatively when involving solutions to
-                      better service customers.</li>
-                    <li>Improved employee retention by 17% through developing programs to teach employees leadership and development as well as basic
-                      business acumen skills.</li>
+            		<div class="profession">Geek Squad Manager - Tier 1/Tier 2 Customer Support</div>
+            		<div class="year">2004 - 2010</div>
+            		<div class="description"><ul><li>Performed computer hardware installations on Windows and Mac devices, such as memory, hard drives, optical 					drives and power supply units.</li>
+	            	<li>Planned, designed and installed user computer systems based on user specifications.</li>
+	            	<li>Collaborated with team members to develop a new process that helped reduce customer completion time by 20%.</li>
+	            	<li>Diagnosed software issues, performed system updates, and installed new software.</li>
+	            	<li>Troubleshot systems and assisted clients in determining hardware and software updates. </li>
+	            	<li>Performed data migrations and system backups in facilitating client’s updating hardware systems. </li>
+	            	<li>Resolved client’s general software technical issues through troubleshooting using various scenarios and determining an appropriate 								solution.</li>
                 </ul></div>
             	</div>
             </div>
           </div>
         </div>
+        
         <div class="col-xs-12 col-sm-5">
           <!-- CONTACT -->
           <div class="box clearfix">
@@ -151,12 +176,13 @@
           <div class="box">
             <h2>Languages</h2>
             <div class="skills">
-              <div class="item-skills" data-percent="0.80">HTML/CSS</div>
-              <div class="item-skills" data-percent="0.65">JAVA</div>
+	          <div class="item-skills" data-percent="0.90">JAVA</div>
+	          <div class="item-skills" data-percent="0.90">JAVASCRIPT</div>
+              <div class="item-skills" data-percent="0.90">HTML/CSS</div>
+              <div class="item-skills" data-percent="0.60">PYTHON</div>
+              <div class="item-skills" data-percent="0.60">PHP</div>
               <div class="item-skills" data-percent="0.60">C++</div>
               <div class="item-skills" data-percent="0.50">LUA</div>
-              <div class="item-skills" data-percent="0.40">PYTHON</div>
-              <div class="item-skills" data-percent="0.20">GLSL</div>
               <div class="skills-legend clearfix">
                 <div class="legend-left legend">Beginner</div>
                 <div class="legend-left legend"><span>Intermediate</span></div>
@@ -165,24 +191,38 @@
               </div>
             </div>
           </div>
-          <!-- LANGUAGES -->
+          <!-- ADDITIONAL PROFICIENCIES & FRAMEWORKS -->
           <div class="box">
-            <h2>Additional Skills</h2>
+            <h2>Additional Proficiencies/Frameworks</h2>
             <div id="language-skills">
-              <div class="skill">Linux Development <div class="icons pull-right"><div style="width: 60%;" class="icons-red"></div></div></div>
-              <div class="skill">Unity 3D <div class="icons pull-right"><div style="width: 20%;" class="icons-red"></div></div></div>
+              <div class="skill">Linux Development <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
+              <div class="skill">AngularJS <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
+              <div class="skill">Protractor <div class="icons pull-right"><div style="width: 70%;" class="icons-red"></div></div></div>
               <div class="skill">UI Design <div class="icons pull-right"><div style="width: 60%;" class="icons-red"></div></div></div>
+              <div class="skill">Bootstrap <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
               <div class="skill">Wordpress Development <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
               <div class="skill">Git <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
               <div class="skill">Graphic Design <div class="icons pull-right"><div style="width: 80%;" class="icons-red"></div></div></div>
             </div>
           </div>
+          
+          <!--  -->
+          <div class="box">
+            <h2>Skills and Additional Experience</h2>
+            <div id="language-skills">
+            <div class="skill">Aptitude for learning new processes and systems quickly. </div>
+            <div class="skill">Ability to develop strong client relationships through active listening and effective communication. </div>
+            <div class="skill">Excellent writing skills and able to communicate well to management and team members. </div>
+            <div class="skill">Highly analytical thinker with the ability to identify issues, communicate concerns, and devise means of solving problems. </div>
+          </div>
+          
           <!-- HOBBIES -->
           <div class="box">
             <h2>Hobbies</h2>
             <div class="hobby">Gaming</div>
             <div class="hobby">Programming</div>
             <div class="hobby">Game Jams</div>
+            <div class="hobby">RPi Hacking</div>
             <div class="hobby">Reading</div>
             <div class="hobby">Peer Tutoring</div>
             <div class="hobby">Peer Mentoring</div>
@@ -193,7 +233,7 @@
 
           <!-- Associations and Affliations -->
           <div class="box">
-            <h2>Affliations/Organizations</h2>
+            <h2>Affiliations/Organizations</h2>
             <div id="language-skills">
             <div class="skill">Phi Kappa Phi Honor Society</div>
             <div class="skill">Upsilon Pi Epsilon Honor Society</div>
@@ -201,8 +241,6 @@
             <div class="skill">National Society of Collegiate Scholars</div>
             <div class="skill">Sigma Alpha Pi Honor Society</div>
             <div class="skill">Girl Develop It - Baltimore</div>
-            <div class="skill">Women in Computing - Baltimore</div>
-            <div class="skill">National Association of Professional Women</div>
           </div>
           </div>
         </div>

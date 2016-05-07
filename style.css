@@ -1254,7 +1254,6 @@ PHOTO (AVATAR)
 }
 #text-header h1::first-line{
   font-size: 1.5em;
-  letter-spacing: -4px;
   font-weight: 800;
   line-height: 1.5em;
 }

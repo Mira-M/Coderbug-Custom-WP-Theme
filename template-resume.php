@@ -22,8 +22,8 @@
             <div id="photo">
             </div>
             <div id="text-header">
-              <h1>Shamireya T. Mollar</h1>
-              <h4> <a href="https://drive.google.com/file/d/0B1-HiPAkImLMRHZPY1hTYVBjV00/view?usp=sharing"> <i class="fa fa-file-pdf-o fa-1x"></i> Printable Version </a></h4>
+              <h1>Shamireya  T.  Mollar</h1>
+              <h4> <a href="https://drive.google.com/file/d/0B1-HiPAkImLMWnVvM1hwSG9KNEk/view?usp=sharing"> <i class="fa fa-file-pdf-o fa-1x"></i> Printable Version </a></h4>
             </div>
           </div>
         </div>
@@ -34,8 +34,7 @@
           <div class="box">
             <h2>About Me</h2>
             <p>I am a full time Computer Science major at the University of Maryland, University College.  In early 2012, I made the decision
-            	to change my career path from retail management to computer programming.  My goal is to become a video game programmer, specializing
-            	in UI and AI programming.</p>
+            	to change my career path from retail management to computer programming.  My goal is to develop web and mobile applications.</p>
           </div>
           <!-- EDUCATION -->
           <div class="box">
@@ -47,7 +46,8 @@
                   <h3><i class="fa fa-graduation-cap"></i> University of Maryland, University College (Current)</h3>
                   <p>Major: Bachelor of Science - Computer Science.  </p>
                   <p>GPA: 4.0  </p>
-                  <p>Awards: Dean's List, President's Excellence Award [2014], President's Scholarship [2015-2016] </p>
+                  <p>Awards: Dean's List, President's Excellence Award [2014]</p>
+                  <p> President's Scholarship [2015-2016] </p>
                 </div>
               </li>
               <li>
@@ -179,7 +179,7 @@
 	          <div class="item-skills" data-percent="0.90">JAVA</div>
 	          <div class="item-skills" data-percent="0.90">JAVASCRIPT</div>
               <div class="item-skills" data-percent="0.90">HTML/CSS</div>
-              <div class="item-skills" data-percent="0.60">PYTHON</div>
+              <div class="item-skills" data-percent="0.70">PYTHON</div>
               <div class="item-skills" data-percent="0.60">PHP</div>
               <div class="item-skills" data-percent="0.60">C++</div>
               <div class="item-skills" data-percent="0.50">LUA</div>

@@ -33,8 +33,7 @@
           <!-- ABOUT ME -->
           <div class="box">
             <h2>About Me</h2>
-            <p>I am a full time Computer Science major at the University of Maryland, University College.  In early 2012, I made the decision
-            	to change my career path from retail management to computer programming.  My goal is to develop web and mobile applications.</p>
+            <p>I am a Software Engineer, specializing in web applications.</p>
           </div>
           <!-- EDUCATION -->
           <div class="box">
@@ -43,11 +42,11 @@
               <li>
                 <div class="year pull-left">2012</div>
                 <div class="description pull-right">
-                  <h3><i class="fa fa-graduation-cap"></i> University of Maryland, University College (Current)</h3>
-                  <p>Major: Bachelor of Science - Computer Science.  </p>
+                  <h3><i class="fa fa-graduation-cap"></i> University of Maryland, University College</h3>
+                  <p>Bachelor of Science - Computer Science.  </p>
                   <p>GPA: 4.0  </p>
                   <p>Awards: Dean's List, President's Excellence Award [2014]</p>
-                  <p> President's Scholarship [2015-2016] </p>
+                  <p>President's Scholarship [2015-2016] </p>
                 </div>
               </li>
               <li>
